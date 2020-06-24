@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c9d2a4b-f23e-4c75-a9e7-04b1ed534b4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TEREMOK_SHOP.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../student-order/student-order.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../student-project/student-project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../titleX/.idea/.gitignore" beforeDir="false" />
@@ -44,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cAjvXIsOqoe6MEwmKjO6zAHWUq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -217,7 +216,7 @@
       <workItem from="1592822876174" duration="9799000" />
       <workItem from="1592898876403" duration="383000" />
       <workItem from="1592905129522" duration="1932000" />
-      <workItem from="1592981797380" duration="332000" />
+      <workItem from="1592981797380" duration="938000" />
     </task>
     <servers />
   </component>

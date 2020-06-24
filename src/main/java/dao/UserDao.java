@@ -35,6 +35,7 @@ public class UserDao {
             "VALUES (?, ?, ?, ?, ?);";
 
     public static final String SELECT_ORDER_LIST = "SELECT * from orders";
+    public static final String SELECT_ORDER_LIST2 = "SELECT * from orders";
 
 
     public static Connection getConnection() throws SQLException {
